@@ -1,5 +1,6 @@
 # Salary Prediction for Data Jobs in the US
 
+
 This project aims to analyse and predict salaries for various data-related jobs in the United States using machine learning techniques.
 
 ## Table of Contents
