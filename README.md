@@ -1,6 +1,6 @@
 # Salary Prediction for Data Jobs in the US
 
-This project aims to analyze and predict salaries for various data-related jobs in the United States using machine learning techniques.
+This project aims to analyse and predict salaries for various data-related jobs in the United States using machine learning techniques.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,6 +8,7 @@ This project aims to analyze and predict salaries for various data-related jobs 
 - [Technologies Used](#technologies-used)
 - [Data Collection and Preprocessing](#data-collection-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Project Structure](#project-structure)
 - [Feature Engineering](#feature-engineering)
 - [Model Building and Evaluation](#model-building-and-evaluation)
 - [Model Deployment](#model-deployment)
@@ -33,6 +34,16 @@ Steps involved:
 
 ## Exploratory Data Analysis
 Several visualizations and statistical analyses were performed to understand the distribution of salaries and the relationship between different features and salaries. Key trends and patterns were uncovered using Matplotlib.
+
+## Project Structure
+
+The project is organized into the following directories and files:
+
+- `datasets/`: Contains the dataset used for analysis.
+  - `df.csv`: The main dataset with job and salary data.
+- `notebooks/`: Contains the Jupyter Notebook used for the analysis.
+  - `Salary_Prediction_Data_Jobs_US.ipynb`: The main Jupyter Notebook that performs the analysis and generates the report.
+- `requirements.txt`: Lists the Python libraries and dependencies needed to run the project.
 
 ## Feature Engineering
 - Created new features.
